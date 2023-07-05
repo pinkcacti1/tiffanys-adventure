@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAABARERERAAAAEP///xAPAAAAAACwAAAAwMwMALAAAMDMM8MACwAAwDO7MwwiAPDAs7c7wyuS+8CzsbLDK5sAwLO7srsr2wDAs7e7uyub8MCzsTvDIpL7wDO7M8MiAADAzDPDPLwAAADAzAw8w7sAAAAAAMDDAAAAAAAAC8wAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Tiffany"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
